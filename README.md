@@ -1,0 +1,1 @@
+Write a Python code that asks user to enter a sequence of scores with an empty input to indicate the end of the score sequence. The program then prints out all the scores ranked from the highest to the lowest.
